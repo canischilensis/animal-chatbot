@@ -1,8 +1,4 @@
-¡Es una excelente idea! Un archivo `README.md` robusto, limpio y profesional es la carta de presentación de tu repositorio en GitHub. No solo demuestra que sabes programar, sino que también entiendes de **arquitectura, Docker, seguridad en IA y documentación técnica**.
 
-Aquí tienes el código completo para tu archivo `README.md`. Puedes crear un archivo llamado exactamente `README.md` en la raíz de tu proyecto (`~/animal-chatbot/`) y pegarle este contenido:
-
-```markdown
 # 🏔️ Exploradores de la Fauna Chilena - Chatbot Educativo con IA Local
 
 ¡Bienvenido al proyecto **Exploradores de la Fauna Chilena**! Este es un chatbot interactivo y educativo diseñado para niños de etapa escolar (aproximadamente 7 años). Permite a los estudiantes conversar con un **Puma** o un **Guanaco** para aprender sobre sus ciclos de vida, hábitats y la biodiversidad de Chile en un lenguaje simple, cercano y seguro.
